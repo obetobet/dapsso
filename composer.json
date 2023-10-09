@@ -1,0 +1,23 @@
+{
+    "name": "dap/sso",
+    "description": "sso dap oauth2",
+    "type": "library",
+    "keywords": ["dap", "sso", "oauth2"],
+    "autoload": {
+        "psr-4": {
+            "Dap\\Sso\\": "src/index"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "robertrickygiyantoro",
+            "email": "robert.giyantoro@dap.co.id"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+    
+    
+}
